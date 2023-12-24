@@ -1,1 +1,1 @@
-WardSculks Launcher Release Repository
+# WardSculks Launcher Release Repository
